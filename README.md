@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-EN-blue.svg)](/EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-CZ-white.svg)](/CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-PL-red.svg)](/PL-Polski/README-PL.md)
+[![en](https://img.shields.io/badge/lang-EN-blue.svg)](/EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-CZ-white.svg)](/CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-PL-red.svg)](/PL-Polski/README-PL.md) [![fi](https://img.shields.io/badge/lang-FI-snow.svg)](/FI-Suomi/README-FI.md) 
 
 # Bitcoin User Manual Booklet
 
@@ -40,13 +40,14 @@ It includes there language versions, each also containing:
 
 ## Available language version
 
-The first three versions are English, Polish, and Czech, with further versions in the works. We’re hoping for your support!
+The first four versions are English, Polish, Czech and Finnish, with further versions in the works. We’re hoping for your support!
 
 |Language|Click the cover to enter a chapter.|
 |---|---|
 |English|[![EN](/Assets/en.png)](/EN-English/)|
 |Czech|[![CZ](/Assets/cz.png)](/CZ-Czech/)|
 |Polski|[![PL](/Assets/pl.png)](/PL-Polski/)|
+|Suomi|[![FI](/Assets/fi.png)](/FI-Suomi/)|
 
 
 ## License
