@@ -12,7 +12,7 @@ Tervetuloa Bitcoin-käyttöohjeen tietolähteeseen. Tämä Cryptosteel-julkaisu 
 
 Bitcoin-käyttöohje on käytännön läheinen ja seuraavat askeleet sisältävä:
 
-- laitteistolompakko käyttöönotto (Cold Storage), 
+- laitteistolompakon käyttöönotto (Cold Storage), 
 - pitkäaikaisesti säilytettävän varmuuskopion tekeminen palautussanoille (Deep Frozen Backup) ja
 - Lightning-verkon salaman nopeat toiminnot (A Hot Spending Account). 
 
