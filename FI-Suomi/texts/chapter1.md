@@ -1,61 +1,61 @@
-# Welcome to the Bitcoin User Manual!
+# Tervetuloa Bitcoin-käyttöohjeen pariin!
 
-By reading this manual, you are now one step away from learning how to become a sovereign Bitcoin user who embraces self-custody in a safe and responsible manner. The future of finance and technology awaits you!
+Mukavaa että olet aloittanut tämän ohjeen lukemisen - parin pienen askeleen jälkeen sinusta tulee bitcoineri. Bitcoinerit kannustavat säilyttämään varoja omassa hallinnassa ja turvallisesti sekä vastuullisesti. Talouden ja teknologian tulevaisuus odottaa jo sinua!
 
-A few easy steps is all it takes for you to embark on your Bitcoin adventure. Learn how to conduct transactions and safely store your assets.
+Päästäksesi mukaan Bitcoin-maailmaan sivun tulee ottaa vain muutama helppo askel. Opit kuinka varojen siirtoja tehdään sekä kuinka säilytät varojasi turvallisesti.
 
-Congratulations on your responsible approach.
+Onnittelemme sinua vastuullisen lähestymistavan valinnasta.
 
-Time to embark on your journey to explore the exciting world of Bitcoin!
-
-***
-
-## TABLE OF CONTENTS
-
-- How can I get bitcoin?
-- Tools for handling digital currencies
-- Setting up a hardware wallet
-- Backup management
-- The Lightning network
+On aika käynnistää tutustumismatkasi Bitcoinin mielenkiintoiseen ja jännittävään maailmaan!
 
 ***
 
-## How can I get bitcoin?
+## SISÄLLYSLUETTELO
 
-There are many ways to acquire Bitcoin. The most popular method is via purchase on cryptocurrency exchanges, where you can trade traditional currencies (like dollars, Euros, Yen) for Bitcoin.
-
-You can also accept payment for goods or services in Bitcoin.
-
-Consider asking your employer about paying your salary, or part of it, in bitcoin.
-
-Remember, even though exchanges are a popular and easy way to acquire Bitcoin, they’re not recommended for long-term storage due to many risks. Assets stored on an exchange aren’t fully yours, since you don’t control the private keys to your wallet. Hence goes the saying:
-
-**“NOT YOUR KEYS, NOT YOUR BITCOIN”**
-
-In legal terms, you are not the owner of assets deposited on an exchange, you are only entitled to make a claim for their withdrawal.
-
-Ensure the safety of your Bitcoin by using your own hardware wallet for storage.
+- Miten voin saada bitcoinia?
+- Bitcoin-varojen hallintatyökalut
+- Laitelompakon käyttöönotto
+- Varmuuskopioiden hallinta
+- Bitcoin-salamaverkko
 
 ***
 
-## HOW CAN I GET BITCOIN?
+## Miten bitcoinia saa?
 
-### Trade or Earn
+Voit hankkia Bitcoinia monin eri tavoin. Yleisin tapa on ostaa sitä pörssistä, kryptovaluutta pörssistä. Niissä voit vaihtaa perinteisiä valuuttoja, (dollareja, Euroja, Yen jne) bitcoiniin.
+
+Voit myös ottaa vastaan maksuja palveluista ja tavaroista bitcoineina.
+
+Asiaamme saattaisi myös edistää, jos kysyisit työnantajaltasi - josko he voisivat maksaa osan palkastasi sinulle bitcoineilla, tai miksei vaikka kokonaan.
+
+On kuitenkin muistettava että, vaikkakin pörssit ovat suosittuja ja helppoja tapoja hankkia bitcoinia, niin varojen pitkä aikaiseen säilyttämisen ne eivät ole oikea ratkaisu. Verkossa toimivat pörssit monille riskeille alttiita. Lisäksi pörssissä olevat varat ovat vain nimellisesti sinun. Pörsseissä oleviin varoihisi ei sinulla ole omistamisen edellyttämiä yksityisiä avaimia. Siitäpä tuleekin sanonta:
+
+**“JOS EI OLE AVAIMIA, EI OLE SINULLA BITCOINEJA”**
+
+Voi jopa olla lakiteknisesti niin että pörssiin siirtämäsi varat eivät edes ole sinun, sinulle on vain annettu oikeus vaatia varojen siirtämistä itsellesi.
+
+Niinpä sinä säilytät bitcoinit itselläsi, ja turvallisuuden vuoksi laitelompakkoa käyttäen.
 
 ***
 
-Wages vary, but we all earn money by working, and our work is measured in hours. If time is money, here are some suggestions for you depending on how much of your time/money you invest in Bitcoin. These will help you figure out how playful you can be and when it’s time to upgrade to something more serious:
+## MITEN BITCOINIA SAA?
 
-- **one hour’s worth of work:**
-experiment with transactions, test various online apps,
+### Yksinkertaisesti - vaihda tai tienaa
 
-- **a day’s work:**
-decide which free app to install on your smartphone,
+***
 
-- **two weeks:**
-decide which hardware wallet to buy,
+Palkat vaihtelevat, mutta suurin osa ihmisistä tienaavat työtä tekemällä, ja usein työn määrä mitataan tunneissa. Jos aika on rahaa, on seuraavassa muutamia ehdotuksia sinulle, kuinka paljon aikaa/rahaa voisit säästää bitcoiniin. Ne antavat myös perspektiiviä rajoista, jolloin leikittely loppuu, ja on aika päivittää asioita vakavammalla otteella:
 
-- **one month:**
-acquire a metal backup to create a permanent backup for your recovery seed phrase. You can then recover your assets in case you lost your hardware wallet.
+- **tunnin työmäärän hinta:**
+harjoittelet varojen siirtoja ja testailet sovelluksia,
 
-Bitcoin, like any traditional currency, is divided into subunits. Each bitcoin is a whopping one hundred million Satoshis (100,000,000 SATS). This makes it possible to buy bitcoin with a fraction of a cent.
+- **päivän työn arvo:**
+päätös Bitcoin-mobiilisovelluksesta,
+
+- **kaksi viikkoa aikaasi:**
+päätät minkä laitelompakon hankit,
+
+- **kuukausi-palkka:**
+hankit salaisten sanojen (seed phrase) varmuuskopiointiin metallista valmistetun ratkaisun. Salaisilla sanoilla pääset uudelleen käsiksi varoihisi, mikäli laitelompakkosi hajoaa tai katoaa.
+
+Aivan kuten muutkin valuutat, jaetaan myös Bitcoin pienempiin yksikköihin. Jokainen bitcoin muodostuu huimaavasta määrästä satosheja - tarkalleen sadasta miljoonasta (1 Bitcoin = 100 000 000 sat). Tämän vuoksi voitkin hankkia bitcoinia, vielä, vaikka eurosentin osissa. Nyt 2025 vuonna 0,01 euroa on noin 10 sat.

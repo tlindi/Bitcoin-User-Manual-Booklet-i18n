@@ -1,68 +1,69 @@
 [![en](https://img.shields.io/badge/lang-EN-blue.svg)](/EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-CZ-white.svg)](/CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-PL-red.svg)](/PL-Polski/README-PL.md)
 [![fi](https://img.shields.io/badge/lang-FI-snow.svg)](/FI-Suomi/README-FI.md) 
 
-# Bitcoin User Manual Booklet
+# Lehtinen Bitcoin-käyttöohjeeksi
 
-Welcome to the Bitcoin User Manual knowledge repository. This publication by Cryptosteel is part of the **[MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/)** product range. The manual is for beginners, with valuable information for veteran Bitcoiners as well, among others as a resource for educating hodlers at the start of their adventure in the world of crypto.
+Tervetuloa Bitcoin-käyttöohjeen tietolähteeseen. Tämä Cryptosteel-julkaisu on osa **[MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/)** -tuoteperhettä. Ohje on tarkoitettu aloittelijoille, sisältäen kuitenkin arvokasta tietoa myös Bitcoin-veteraaneille sekä kaikille muillekin, ketkä opastavat tulevia hodlaajia Bitcoin-maailman seikkailujen alussa.
 
-![The Easy Way to Get Started](/Assets/cover-the-easy-way-to-get-started.png)
-
-
-## A few words about the booklet
-
-The Bitcoin User Manual is a pragmatic, step-by-step guide on:
-
-- hardware wallet configuration (Cold Storage), 
-- creating a permanent recovery seed phrase backup (Deep Frozen Backup),
-- Lightning fast transactions (A Hot Spending Account). 
-
-Cryptosteel’s mission is to provide security and education for Bitcoin users. In line with this philosophy, we have decided to make the booklet available on the CC platform [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](/LICENSE.md).
-
-**This means anyone can freely download, modify, and share, as long as there is a reference to the source material.**
-
-The guide is designed for easy translation and customization for local needs.
-
-Feel free to mod elements like:
-
-- local crypto trading platforms, as well as other forms of exchanging currencies,
-- hardware wallets popular in a specific region,
-- popular metal backup methods,
-- local Lightning fast payment apps.
+![Ensi askeleet helpoiten](/Assets/cover-fi.png)
 
 
-## What’s in the repository?
+## Muutama sananen kirjasesta
 
-It includes there language versions, each also containing:
+Bitcoin-käyttöohje on käytännön läheinen ja seuraavat askeleet sisältävä:
 
-- the full booklet in PDF format - perfect for downloading and reading,
-- the contents in separate files, allowing community editing,
-- illustrations - in open, editable, and encapsulated formats.
+- laitteistolompakko käyttöönotto (Cold Storage), 
+- pitkäaikaisesti säilytettävän varmuuskopion tekeminen palautussanoille (Deep Frozen Backup) ja
+- Lightning-verkon salaman nopeat toiminnot (A Hot Spending Account). 
+
+Cryptosteel:in missiona on tarjota turvaa ja koulutusta Bitcoinin käyttäjille. Tämän filosofian mukaisesti olemme päättäneet tarjota tämän ohjeen saataville CC-oikeuksin [Creative Commons Attribution 3.0 Unported (CC BY 3.0)](/LICENSE.md).
+
+**Edellinen tarkoittaa, että voi ladata, muokata ja jakaa teosta haluamallasi tavalla, kunhan vain säilytät mukana viittauksen alkuperäiseen lähdemateriaaliin.**
+
+Ohje on suunnitelty olemaan helposti käännettävissä uusille kielille ja muokattavissa paikallisiin tarpeisiin.
+
+Voi muutella kätevästi seuraavia elementtejä:
+
+- paikalliset vaihtopörssit, kuten myös muut valuuttojen vaihtomahdollisuudet,
+- tietyllä alueella suositut laitteistolompakot,
+- suosituimmat metalliin perustuvat varmuuskopiot ja
+- salamaverkko sovellukset joita paikallisesti ovat suosittuja.
 
 
-## Available language version
+## Mitä tietolähteestä löytyy?
 
-The first three versions are English, Polish, and Czech, with further versions in the works. We’re hoping for your support!
+Eri kieliversioiden lisäksi täältä löytyvät myös niiden:
 
-|Language|Click the cover to enter a chapter.|
+- kirjasen täydelliset PDF-muotoiset tiedostot - täydellisiä ladattavaksi ja luettavaksi,
+- tiedostoihin eriteltynä koko sisältö, tukien näin yhteisön muokkauksia ja
+- suunnittelutiedostot - avoimessa, muokattavassa ja kapsuloidussa formaatissa.
+
+
+## Saatavilla olevat kieliversiot
+
+Ensimmäiset neljä kieltä ovat englanti, puola, tsekki ja suomi. Ajan myötä tulle uusia kieliä mukaan, ja toivomme sinulta tukea niiden toimittamiseksi!
+
+|Kieli|Klikkaa kansikuvaa sisältöön päästäksesi.|
 |---|---|
-|English|[![EN](/Assets/en.png)](/EN-English/)|
-|Czech|[![CZ](/Assets/cz.png)](/CZ-Czech/)|
-|Polski|[![PL](/Assets/pl.png)](/PL-Polski/)|
+|englanti|[![EN](/Assets/en.png)](/EN-English/)|
+|puola|[![PL](/Assets/pl.png)](/PL-Polski/)|
+|tsekki|[![CZ](/Assets/cz.png)](/CZ-Czech/)|
+|suomi|[![FI](/Assets/fi.png)](/FI-Suomi/)|
 
 
-## License
+## Käyttöehdot
 
-The “Bitcoin User Manual Booklet” and related resources are available at https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet/ based on the license: Creative Commons Attribution 3.0 Unported (CC BY 3.0). 
-
-
-## Contact
-
-If you have any questions or suggestions about this project, please contact us at motherlode.booklet@cryptosteel.com.
+“Bitcoin-käyttöohje” ja siihen liittyvät lähteet ja tuotokset ovat Creative Commons Attribution 3.0 Unported (CC BY 3.0) käyttöehtojen mukaisesti saatavilla osoitteesta https://github.com/cryptosteel/Bitcoin-User-Manual-Booklet.
 
 
-## Community contribution
+## Yhteystiedot
 
-Your suggestions and support in adapting this publication to other languages will be much appreciated both by the Community.
+Jos sinulla on kysyttävää tai ehdotuksi projektin parantamiseksi saat meihin yhdeyden lähettämällä sähköpostia osoitteeseen motherlode.booklet@cryptosteel.com.
+
+
+## Yhteisön osallistuminen
+
+Yhteisö arvostaa suuresti ehdotuksiasi ja tukeasi tämän julkaisun toimittamisesta uusille kielille.
 
 
 **Cryptosteel**

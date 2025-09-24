@@ -1,88 +1,88 @@
-## THE LIGHTNING NETWORK
+## BITCOIN SALAMAVERKKO (The Lightning Network)
 
-**The Lightning Network** is the second layer of the Bitcoin network. The Lightning Networks work by locking money on the Bitcoin blockchain and issuing a corresponding amount on Lightning. This allows for Bitcoin transactions essentially at the speed of your internet connection.
+**Salamaverkko** on Bitcoin-lohkoketjun päälle rakennettu toinen kerros. Varat lukitaan lohkoketjussa älysopimuksiin, ja niiden mukaisesti luodaan salamaverkkoon bitcoineja. Salamaverkon maksujen nopeutta rajoittaa lähinnä Internet-yhteytesi nopeus.
 
-**The Lightning Network** establishes direct payment channels between users, and thus enables near-real time transactions. There’s no need to confirm every transfer on the blockchain in the blockchain network. This translates into lower fees and immediate payments.
+**Salamaverkko** luo suoran maksukanavan käyttäjien välille. Näin mahdollistetaan lähes reaaliaikaiset siirrot. Näin kaikkia siirtoja ei tarvitse varmentaa lohkoketju tapahtumiin. Suomennettuna tämä tarkoittaa matalia siirtokuluja sekä välittömiä maksujen läpimenoja.
 
-**The Lightning Network** is an independent network that facilitates using Bitcoin in everyday life, thanks to fast and low-cost transactions across a growing number of apps.
+**Salamaverkko** on itsenäinen verkko, joka mahdollistaa bitcoinin käyttämisen päivittäisessä käytössä, kiitos nopeiden ja lähes ilmaisten kulujen ansiosta. Lisäksi salamaverkkoa hyödyntäviä sovelluksia on lukemattomia.
 
-**The Lightning Network** has been integrated into a multitude of apps. Their assortment is wide and dynamically evolving, varying according to needs, preferences, and new developments in technology.
+**Salamaverkko** on sisään rakennettuna useisiin sovelluksiin ja verkkosivustoihin. Käyttökohteiden valikoima on laaja ja kehittyy dynaamisesti, kun tarpeet, kiinnostuksen kohteet ja teknologia muovautuvat.
 
-### BITCOIN GLOSSARY
+### BITCOIN-SANASTOA
 
-**LIGHTNING NETWORK** - the second layer of the Bitcoin network, used for fast and easy transactions
-
-***
-
-## THE LIGHTNING NETWORK
-
-### Shopping time!
+**Salamaverkko** - Bitcoin-verkon toinen kerros, joka toteuttaa nopeat ja helpot varojen siirrot
 
 ***
 
-### THE LIGHTNING NETWORK - INSTALL APP
+## SALAMAVERKKO
 
-To help you experience the benefits and explore the possibilities of the Lightning Network, we’ve selected hot wallet apps (connected to the internet) that can be installed on your smartphone. Cryptosteel recommends two options: Wallet of Satoshi (for beginners) and Breez (some technical knowledge required).
-
-- If you’re planning to make your first Lightning Network transactions, Wallet of Satoshi is the better choice. It’s a custodial wallet offering ease of use; as such, it’s recommended for beginner users. The app is ready immediately after installation. Wallet of Satoshi can be downloaded from walletofsatoshi.com.
-- Nonetheless, you should aim to adopt a fully self-custodial wallet like Breez. In this case, you are charged for opening the Lightning channels, and by owning your own channel, you have greater control over your assets. If you choose the Breez app, you will be charged a small fee (usually less than $1) for opening your channel. Breez can be downloaded from breez.technology.
-
-**Remember, both the Wallet of Satoshi and Breez are good and tested options for the Lightning Network.**
+### Nyt ostoksille!
 
 ***
 
-## Download and install app
+### SALAMAVERKKO - ASENNA SOVELLUS
+
+Tutustutamme sinut salamaverkkoon käyttäen kuumia lompakkoja, jotka ovat kokoajan yhteydessä verkkoon. Nämä lompakot ovat mobiilisovelluksia. Suosittelemme paria lompakkoa: Phoenix Wallet (helppo ja nykyaikainen) ja Wallet of Satoshi eli WoS (harjoitteluun).
+
+- Kun suunnittelet ensimmäisiä salamaverkossa tapahtuvia varojen siirtojasi, WoS on helpoin valinta. Se ei ole omasäilö lompakko - mutta se on helppo ja nopea. Sovellus toimii heti asennuksen jälkeen. Löydät linkin siihen  walletofsatoshi.com -verkkosivulta.
+- Kaikesta helppoudesta sokaistumatta - tähtää omasäilöihin kuten Phoenix Wallet. Sellaisten käyttöön liittyvät salamaverkon kanavien avauksista ja sulkemista aiheutuvat kulut. Mutta omat kanavasi takaavat, että todella omistat bitcoinisi. Phoenixin löydät phoenix.acinq.co -sivuilta.
+
+**Muista, sekä Wallet of Satoshi että Phoenix Wallet ovat laajasti testattuja ja hyviä vaihtoehtoja salamaverkon käyttöön. Voit myös kokeilla hyväksi havaittuja salamaverkon asiakassovelluksia, joita ovat kyvykäs Aqua (uudehko) ja monipuolinen Breez (klassinen).****
 
 ***
 
-## THE LIGHTNING NETWORK - FUELLING
-
-It’s recommended that beginner users operate with a smaller amount in order to get familiar with the functioning of the Lightning Network and conduct their first transaction. This will take about 20 minutes of your time.
-
-- Generate your receiving address:
-	- by clicking the “Receive” button and choosing the option “Bitcoin On-Chain” in Wallet of Satoshi
-	- or “Receive via BTC Address” in Breez.
-- Copy the address to your computer
-- Enter the received address to your hardware wallet
-- Conduct a small transaction and wait for it to be confirmed on the blockchain. Depending on the fees you choose to pay, this could take up to or over an hour.
-- Your assets will fuel the Lightning app account, and now you will be able to conduct instant transitions
-
-The precise steps required to deposit on a Lightning wallet may vary depending on the chosen app. The efficacy of the Lightning Network is based on the fundamental principle of full backing in Bitcoin assets. By depositing your assets in the Lightning Network, your Bitcoin becomes a Lightning Network deposit. Withdrawing funds from the Lightning Network dispatches a respective reserve in the Bitcoin network. All costs related to the Lightning Network are presented before confirming a transaction.
-
-**ATTENTION!**
-
-**REGULAR WITHDRAWALS FROM THE LIGHTNING NETWORK ARE RECOMMENDED AS THE BITCOIN NETWORK IS SAFER AND BETTER SUITED FOR LONG TERM STORAGE.**
+## Lataa ja asenna sovellus
 
 ***
 
-## Fuelling your Lightning account
+## SALAMAVERKKO - TANKKAUS
+
+Myös salamaverkon käytön aloituksessa on suositeltavaa aloittaa pienillä summilla. Näin sen toiminnot ja käyttö tulevat riskittä tutuiksi ensimmäisten tapahtumien ohessa. Kun aloitat lompakkosi bitcoin-varoilla, tähän menee 20 minuutin verran aikaa.
+
+- Luo vastaanotto-osoite:
+	- Wallet of Satoshi käyttöliittymästä valitse “Receive” ja “Bitcoin On-Chain” 
+	- tai Phoenix Walletissa “Receive" ja pyyhkäise vasemmalle nähdäksesi "Bitcoin address" QR koodin.
+- Kopioi bitcoin-osoite tietokoneellesi, jotenkin ;-)
+- Syötä tuo osoite "Send to" tai "Recipient Address" kenttään laitelompakkosi sovelluksessa
+- Lähetä pieni määrä varoja (esim 50kSat), valitsemalla "Quick" kulutaso ja odota että siirto vahvistetaan lohkoketjussa. Lohkoketjun kuomituksesta riippuen, valitsemasi kulutason satoshi-määrä voi vaihdella, kuten myös vahvistusten viive (minuutteja tai tunteja).
+- Sisään tulevat varat tankkaavat salamaverkkolompakkosi ja voit suorittaa salaman nopeita maksuja.
+
+Valitusta salamaverkkosovelluksesta, ja nopeasta kehityksestä, johtuen vaiheet voivat olla hieman erilaisia. Salamaverkon ideana on, että siellä käytettävät varat ovat aitoja bitcoineja. Siirtämällä varojasi salamaverkkoon, sinun varat muuttuvat salamaverkko talletuksiksi. Salamaverkosta varojen nostaminen takaisin Varojen nostaminen Lightning Networkista siirtää vastaavan varannon Bitcoin-verkkoon. Huomaa että voit saada salamaverkko bitcoinia, joko kavereilta lahjoituksina, tai kolikko automaateista alkaen 0,05 euron määrissä. Salamaverkossa voi siirtää vaikka yhden satoshin tapahtumia!
+
+**TÄRKEÄÄ!**
+
+**SALAMAVERKOSSA KANNATTAA SÄILYTTÄÄ VAIN KÄYTTÖVAROJA. SUUREMMAT MÄÄRÄT SÄILYTETÄÄN KYLMÄ- JA LAITELOMPAKOISSA, JOTKA OVAT SUUNNITELTUJA PITKÄAIKAISEEN SÄILYTYKSEEN.**
 
 ***
 
-## THE LIGHTNING NETWORK - PAY AND RECEIVE
-
-We’ve saved the best for the end, so you can enjoy fast and low-cost transactions on the Lightning Network. The below recommendation will allow you to not only spend, but also earn Bitcoin.
-
-- **Bitrefill** provides instant purchase coupons, vouchers, and gift cards for some of the biggest shops, retailers & online services. bitrefill.com
-
-- **ShopinBit** offers over 800,000 products you can buy via Lightning including mobile phones, laptops, watches, video games, and more. thndr.games
-
-- THNDR developed a series of video games that pay you via Lightning for playing them. Try Bitcoin Bounce, Bitcoin Bay, Turbo84, Bitcoin Snake, Tetro Tiles, or Club Bitcoin: Solitaire, on your smartphone. shopinbit.com
-
-- Nostr is the future of social media, an open standard for censorship-resistant and globally decentralized publishing on the web. nostr.how
+## Tankkaa lompakkosi (kuvassa väärä määrä desimaaleja)
 
 ***
 
-## Since you know how to operate Bitcoin...
+## SALAMAVERKKO - MAKSA JA LASKUTA
 
-### YOU ARE NOW A BITCOINER!
+Viimeisimpänä, mutta ei vähäisimpänä antina - lisäksi että voit nauttia nopeasta ja edullisesta salamaverkosta - voit käytön lisäksi tienata bitcoinia.
+
+- **Bitrefill** tarjoaa mahdollisuuden ostaa kuponkeja, lahjakortteja, vouchereita joihinkin suurimmistä kaupoista ja jälleenmyyjistä sekä verkkokaupoista. bitrefill.com
+
+- **ShopinBit** valikoimasta löytyy yli 800.000 tuotetta maksettavaksi salamaverkossa, matkapuhelimista, tietokoneisiin, kelloihin, peleihin jne. shopinbit.com
+
+- **THNDR** kehitti sarjan pelejä, joiden pelaamisesta maksat salamaverkossa. Kokeile vaikka Bitcoin Bounce, Bitcoin Bay, Turbo84, Bitcoin Snake, Tetro Tiles, tai puhelimella Club Bitcoin: Solitaire thndr.games
+
+- **Nostr** on tulevaisuuden sosiaalisen median standardi. Se on globaalisti hajautettu julkaisujärjestelmä. nostr.how
 
 ***
 
-Special thanks to:
+## Kun nyt tiedät, kuinka Bitcoin toimii...
+
+### OLET NYT KOINERI!
+
+***
+
+Kiitokset:
 
 Mutant LetterPress, Mariusz Mamcarz, Vlad Costea, Gracjan Pietras, JesterHodl.com, Joko and btc21.de
 
-To encourage developing new language versions, our publication is available under the CC BY 3.0 license. Get the editable digital version at github.com/cryptosteel and do your part to spread the word!
+Tämä julkaisu on vapaasti saatavilla CC BY 3.0 lisensoituna. Kannustamme kääntämään uusia kieliversioita. Opiskele kuinka saa sähköisesti muokattavan version osoitteesta github.com/cryptosteel ja tee oma osasi bitcoin-sanoman eteenpäin viennissä!
 
-This open-source book titled "Bitcoin User Manual" (hereinafter referred to as 'The Book') is designed to provide general information about the subject matter, which is bitcoin and cryptocurrencies. The understanding herein is that the author(s), contributors, their affiliated entities, and any in-house or third-party service providers (collectively referred to as 'The Parties') are not rendering legal, financial, investment, or any other professional advice or services. All views, interpretations, statements, or assertions contained within The Book are solely those of the author(s) and contributors and do not necessarily represent or reflect the views of The Parties. The Parties expressly disclaim any representation or warranty, express or implied, including without limitation, warranties of fitness for a particular purpose, merchantability, and non-infringement. The Book is provided solely for educational and informational purposes. The information contained herein does not constitute an offer, solicitation, recommendation, endorsement, or advice to buy, sell, or hold bitcoin, any other cryptocurrencies, or any securities or other financial instruments in the United States or any other jurisdiction. Such information, if interpreted as a solicitation or offer, is illegal and is not intended by The Parties. Nothing in The Book should be construed as providing legal, tax, investment, financial, or any other form of professional advice. The author(s) and contributors to The Book are not certified investment advisors. Any past performances, historical data, anecdotes, or examples presented in The Book should not be interpreted as indicative or a promise of future results. The author(s) and The Parties do not provide personalized legal, tax, financial, or investment advice through The Book. The information provided is not intended to be used as the sole basis for any investment decisions, nor should it be construed as advice designed to meet the individual or entity specific needs. Investing in bitcoin and other cryptocurrencies carries inherent risk, including the risk of loss of the entire investment. The Parties do not represent, guarantee, or imply that the services or methods contained in The Book will prevent the reader from experiencing loss in investments. The reader is strongly advised to seek the advice of an appropriate professional advisor before making any investment decisions. The Parties assume no responsibility for errors, omissions, or contrary interpretation of the subject matter herein and will not be liable for any direct, indirect, consequential, special, exemplary, or other damages arising therefrom. This disclaimer is governed by and construed in accordance with the laws of the jurisdiction from where The Book is being accessed, without regard to any conflict of laws principles. Any dispute arising out of or related to your use of The Book will be adjudicated in the appropriate state or federal court in said jurisdiction, and you hereby consent to such jurisdiction. By accessing or using The Book, you acknowledge and agree that you have read, understood, and accepted these terms and conditions. If you do not agree with these terms and conditions, you are advised not to read or use The Book. Your use of The Book, freely and without any form of compensation, constitutes an agreement to these terms.
+Tämä avoimen lähdekoodin käytäntöjen perusteilla toimitettava kirjanen, otsikoltaan "Bitcoin-käyttöohje" (myöhemmin 'kirjanen'), on suunniteltu tarjoamaan yleistietoa aiheen tiimoilta, joka on bitcoin (ja kryptovaluutat). Kirjasessa esittämä ymmärrys, on kirjoittajien, tukijoiden, yhteistyöryhmien, toimittajien ja kolmansien osapuolien luomaa (joista yhdessä myöhemmin käytetään termiä 'osapuolet'), ei ole juridisesti, taloudellisesti, sijoitusneuvoina, tai muissa ammatillisissa näkökulmissa olevaa neuvontaa tai palvelua. Kaikki kirjasen näkemykset, tulkinnat, lausunnot tai anti ovat sellaisenaan esitettyjä, ilman että toimittajat ja osallistujat eivät välttämättä edusta tai esitä osapuolien näkemyksiä. Osapuolet yksiselitteisesti kiistävät kaikki vetoomukset soveltuvuudesta tai takuista esitettynä mutta ei rajoittuneena, sisältäen ilman rajoituksia, vastuut, soveltuvuuden mihinkään tarkoitukseen, kaupalliseen kelpoisuuteen sekä loukkaamattomuuteen. Kirjanen on toimitettu vain koulutuksellisiin ja tiedottamisopillisiin tarkoituksiin. Sisältö ei kannusta tarjoamaan, tarjouspyyntöihin, suosituksiin tai, suosituksiin, tai neuvoihin ostaa, myydä, kaupata, tai säilyttää bitcoin-varoja, tai mitään muita kryptovaluuttoja taikka muita arvopapereita, finanssituotteita Amerikan Yhdysvalloissa tai minkään muun lainsäädännön alaisena. Jos sellaista tietoa on kirjasessa sisällytetty, minkä voisi tulkita olevan tarjouspyyntö tai tarjousta, on se laitonta ja ei ole osapuolien tarkoittamaa ilmaisua. Kirjasen mitään sisältöä ei tule nähdä laillisen, verotuksellisen, sijoittamiseen, talouden tai minkään muotoa ammatillisen palvelun kaltaisina neuvoina. Kirjasen toimittajat ja sisällön luontiin osallistujat eivät ole sijoitusneuvojia. Mitkään menneet toteutumiset, historiallinen tieto, vitsit tai kirjasessa annetut esimerkit eivät tule olla tulkittavissa suuntaa antavina tai lupauksina tulevaisuuden tapahtumista. Toimittajat ja toimitukseen osallistuneet eivät anne henkilökohtaisia laki-, vero-, talous- tai sijoitusneuvontaa kirjasen avulla. Tiedot on annettu ilman tarkoitusta olla minkään sijoituspäätöksen pohjana, eikä niiden voida katsottavan soveltuvan yksilöiden tai yhteisöjen tarpeisiin. Bitcoiniin ja kryptovaluuttoihin sijoittaminen sisältää riskin menettää kaiken sijoitetun varallisuuden. Osapuolet eivät edusta, takaa tai esitä olettamusta, että kirjasen esittämät palvelut tai menetelmät poistaisivat moisten riskien olemassaolosta sijoituksissa. Tätä lausetta kukaan tuskin lukee. Lukijaa kannustetaan etsimään neuvoja ammattilaiselta neuvonantajalta, ennen minkäänlaisten sijoitusten tai sellaiseksi luokiteltavien päätösten tekemistä.  Osapuolet eivät oleta mitään vastuuta käsiteltävien aiheiden virheiden, puutteiden vai ristiriitaisten tulkintojen, sekä siten eivät ole vastuullisia mistään aiheutuneista, välillisistä, seuraamuksellista, esimerkillisistä tai muista mahdollisista vahingoista. Tämä lausunto käsitellään ja tulkitaan sen paikan lainsäädännön mukaisesti, jossa kirjasen sisältöä käsitellään, kuitenkin siten että paikallinen lainsäädäntö pätee ylitse tämän. Esiin tulevat ristiriidat käsitellään edellisen mukaisesti paikallisen oikeusjärjestelmän ja lainsäädännön mukaisesti. Kirjasta käsitellessäsi tunnustat lukeneesi, ymmärtäneesi ja hyväksyneesi kaikki nämä käyttöehdot. Mikäli et tähän suostu, suositamme jättämään kirjasen lukematta. Kirjasen käyttö on ilmaista ja ei edellytä minkäänlaista korvausta näitä ehtoja noudattaville.

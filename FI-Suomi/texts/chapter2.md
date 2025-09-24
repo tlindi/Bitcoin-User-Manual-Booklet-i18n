@@ -1,95 +1,95 @@
-## HARDWARE WALLET SETUP
+## LAITELOMPAKON KÄYTTÖÖNOTTO
 
-While modern computers and smartphones are capable of running the cryptographic algorithms required to use Bitcoin, they are inherently insecure.
+Bitcoinin käyttämiseen vaadittavat kryptograafiset algoritmit toimivat tehokkaasti nykyaikaisissa älypuhelimissa ja tietokoneissa. Valitettavasti ne vai ovat auttamattoman turvattomia laitteita.
 
-These devices perform multiple tasks, such as taking photos or browsing. Generally, the more a device can do, the greater security vulnerabilities it may have.
+Näitä laitteitteita käytetään moneen, valokuvien ottamisesta, surffailun kautta aina sähköpostien lähetykseen ja puheluihin. Yleisesti voidaan sanoa että, mitä monipuolisempi laite sitä usemmalle turvallisuusriskille se on alttiina.
 
-### HARDWARE WALLET
+### LAITELOMPAKKO
 
-A hardware wallet is an electronic device that can perform a limited number of tasks: creating a password, calculating a Bitcoin address, or authenticating a transaction. The risk of succumbing to a hack attempt is mitigated by reducing the functionality of the device.
+Laitelopakko on täsmätarpeeseen luotu erikoislaite, joka kykenee vain suppeaan määrään toimintoja: salaisten sanojen luonti, laskemaan bitcoin-osoite ja allekirjoittamaan bitcoin verkon tapahtuma. Väärinkäytöksille alttiita kohteita on vain minimaalinen määrä.
 
-### ADDITIONAL DISPLAY
+### LAITELOMPAKON NÄYTTÖ
 
-Hardware wallet devices are designed with a built-in display. Validation on this additional display prevents unauthorized access and boosts security.
+Laitelompakoissa on sisäänrakennetut näytöt. Asioiden tarkastelu ja vahvistaminen suoraan laitteesta estää tietojen vuotamista ja parantaa turvallisuutta.
 
-### PRIVATE KEYS
+### YKSITYISAVAIMET
 
-To keep your coins secure, a hardware wallet isolates your private key in offline encrypted memory, and will never send your private keys to the computer it is connected to.
+Laitelompakko eristää yksityiset bitcoin-avaimet verkoista erilliseen ja salattuun muistiin. Näin salaiset sanat tai yksitysavaimet eivät koskaan siirry minnekään, vaikka laitelompakko kytketään esim tietokoneeseen.
 
-In alphabetic order: Bitbox, Blockstream, ColdCard, Foundation, Ledger, and Trezor are the leading hardware wallet brands.
+Aakkosjärjestyksessä: Bitbox, Blockstream, ColdCard, Foundation, Ledger ja Trezor ovat johtavat laitelompakkojen valmistajat.
 
-### BITCOIN GLOSSARY:
+### BITCOIN SANASTOA:
 
-**PRIVATE KEY** - a very strong password
-
-***
-
-## HARDWARE WALLET SETUP
-
-### What’s a hardware wallet and why do I need one?
+**YKSITYISAVAIN** - erittäin turvallinen salasana
 
 ***
 
-## HARDWARE WALLET SETUP - PREPARATION
+## LAITELOMPAKON KÄYTTÖÖNOTTO
 
-Prepare to set up your hardware wallet – it shouldn’t take longer than 30 minutes.
-
-Prepare your computer, a piece of paper and something to write with. Make sure you have internet access and a moment of peace and quiet.
-
-Make sure no one interrupts or observes you during this procedure – this will ensure the process is conducted safely and efficiently.
-
-**Most of the operations in this guide involve sensitive data – we recommend conducting them in a private location.**
-
-Remember, your hardware wallet can be easily reset to factory settings and you won’t lose your coins as long as you still have the seed phrase for recovery. You can repeat this step several times if you feel the need to practice.
+### Mikä on laitelompakko ja miksi tarvitsen sellaisen?
 
 ***
 
-## Find a quiet spot - bring a pen and paper
+## LAITELOMPAKON KÄYTTÖÖNOTTO - VALMISTAUTUMINEN
+
+Valmistaudu laitelompakon käyttöönottoon - sen vie reilun puolisen tuntia.
+
+Ota esille tietokoneesi, paperia ja joku kirjoitusväline. Tarkista että nettiyhteys toimii ja että sinulla on rauhallinen hetki keskittyä asiaan.
+
+Huolehdi ettei kukaan tule keskeyttämään tai tarkkailemaan puuhiasi prosessin aikana – täten saat hoidettua asian kerralla kuntoon, tehokkasti ja turvallisesti.
+
+**Tämän vihkosen useimpiin tehtäviin liittyy luottamuksellisen tiedon käsittelyä - suosittelemme tekemään näitä asioita vain yksityisissä tiloissa.**
+
+Muista, laitelompakon voi nollaa tehdasasetuksille helposti, etkä menetä varojasia, kunhan sinulla vain on salaiset sanasi tallessa. Voit harjoitella ja toistaa tätä vaihetta, kunnes se alkaa sinusta sujua luonnollisesti.
 
 ***
 
-## HARDWARE WALLET SETUP - DOWNLOAD THE APP
-
-### Setting up Your Hardware Wallet
-
-This process usually begins with installing software on your computer that allows convenient use of the hardware wallet.
-
-Carefully follow the instructions shown on your computer screen and the display on the device. Add additional security measures (usually a PIN code) according to the manufacturer’s instructions. Next, write down the words displayed on the hardware wallet screen - this is your secret recovery seed phrase.
-
-### Secure Your Recovery Seed Phrase
-
-**The seed phrase is extremely important and indispensable for retrieving assets in case the hardware wallet is lost, damaged, or destroyed. It should be stored in a safe location.**
-
-### Transferring Assets to Your Hardware Wallet
-
-After a proper wallet setup, you can transfer bitcoin assets to it from another wallet or from an exchange.
-
-We recommend reading the instruction manual supplied by the manufacturer, since the process may differ depending on the wallet model.
+## Etsi soppi - mukaan kynä ja paperia
 
 ***
 
-## Download the app
+## LAITELOMPAKON KÄYTTÖÖNOTTO - LATAA SOVELLUS
+
+### Otetaan käyttöön laitelompakkosi
+
+Yleensä prosessi alkaa sovelluksen asennuksella tietokoneeseen. Tietokonesovelluksella laitelompakon käyttö on mukavaa.
+
+Seuraa tarkaan ohjelman antamia ohjeita sekä tietokoneen että laitelompakon ruuduilta. Valmistajan antamia turvallisuutta lisääviä asioita kannattaa noudattaa, kuten esim PIN-koodi. Seuraavaksi sinua pyydetöön kirjoittamaan talteen laitelompakon näyttämiä sanoja - ne ovat sinun salaiset sanat (recovery seed phrase).
+
+### Turvaa salaiset sanasi
+
+**Salaiset sanasi ovat äärimmäiset tärkeät sekä välttämättömät varojen palautuksessä jos laitelompakollesi käy jotain tai hukkaat sen PIN-koodin. Salaiset sanat pitää aina säilyttää turvallisessa paikassa.**
+
+### Varojen siirtäminen laitelompakkoa käyttäen
+
+Asennetun laitelompakon avulla voit siirtää bitcoinia itsellesi toisesta lompakosta tai pörssistä.
+
+Suosittelemme lukemaan valitsemasi laitteen valmistajan oheet tarkkaan, sillä prosesseissa on valmistajakohtaisia eroja.
 
 ***
 
-## HARDWARE WALLET SETUP - PRIVATE KEY
+## Lataa sovellus
 
-Hardware wallets are designed in such a way that only their owner can access the private key - this boosts security.
+***
 
-The recovery seed phrase is usually a sequence of 12 or 24 words that encode the private key to your wallet. Remember, these words allow access to your assets!
+## LAITELOMPAKON KÄYTTÖÖNOTTO - YKSITYINEN AVAIN
 
-A seed phrase can be transferred between hardware wallets made by different manufacturers. **The recovery seed phrase is more important than the device that holds it.**
+Laitelompakot on suunniteltu niin että, vain laitteen omistaja pääsee käyttämään salaista avainta - tämä tuo turvallisuutta.
 
-Lost your hardware wallet? Or has it stopped working? Or perhaps you’d like to replace it with another model? No problem! Just enter your recovery seed phrase into the new wallet to regain access to your assets.
+Salaiset sanat koostuvat 12 tai 24, joskus 20, englannin kielen sanasta. Niistä luodaan lompakkosi yksityisavain. Muista, nämä sanat antavat pääsyn ja käyttöoikeuden varoihisi!
 
-**Protect your seed phrase – it’s the only method to regain access to your assets in case you lose your hardware wallet.**
+Nämä salaiset sanasi toimivat useiden valmistajien laitelompakoissa. **Salaiset sanat ovat tärkeämpiä, kuin laite jolla ne on luotu.**
+
+Kadotitko laitelompakkosi? Lopettiko se toimintansa? Tai haluaisit päivittää sen uudempaan? Ei ongelmaa! Syötät vain salaset sanat uuteen lompakkoon ja varat ovat taas käytettävissäsi.
+
+**Turvaa salaiset sanasi – ne ovat ainut tapa palauttaa pääsysi varoihisi, jos laitelompakkosi ei ole käytettävissäsi.**
 
 Without your seed phrase, you irreversibly lose access to your cryptocurrency holdings and the ability to manage them.
 
-**WARNING!**
+**TÄRKEÄÄ!**
 
-**NEVER CREATE A DIGITAL COPY (PHOTO, TEXT MESSAGE, EMAIL) OF YOUR RECOVERY SEED. ALSO, NEVER READ YOUR SEED PHRASE OUT LOUD AND AVOID TYPING IT ON A COMPUTER CONNECTED TO THE INTERNET!**
+**ÄLÄ KOSKAAN TEE DIGITAALISTA KOPIOTA (KUVA, TEKSTIVIESTI, SÄHKÖPOSTI) SALAISISTA SANOISTASI. ÄLÄ MYÖSKÄÄN LUE SANOJA ÄÄNEEN TAI KIRJOITA NIITÄ MIHINKÄÄN LAITTEESEEN JOLLA SAATTAA OLLA INTERNET-YHTEYS!**
 
-### BITCOIN GLOSSARY
+### BITCOIN-SANASTOA
 
-**RECOVERY SEED PHRASE** - a private key used as a backup in case of hardware wallet failure
+**SALAISET SANAT** - yksityisavaimen varmuuskopio laitelompakon vahingoittumisen varalle
