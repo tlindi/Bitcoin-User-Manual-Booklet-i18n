@@ -1,7 +1,7 @@
 [![en](https://img.shields.io/badge/lang-EN-blue.svg)](/EN-English/README-EN.md) [![cz](https://img.shields.io/badge/lang-CZ-white.svg)](/CZ-Czech/README-CZ.md) [![pl](https://img.shields.io/badge/lang-PL-red.svg)](/PL-Polski/README-PL.md)
 [![fi](https://img.shields.io/badge/lang-FI-snow.svg)](/FI-Suomi/README-FI.md) 
 
-# Lehtinen Bitcoin-käyttöohjeeksi
+# Bitcoin-käyttöohje
 
 Tervetuloa Bitcoin-käyttöohjeen tietolähteeseen. Tämä Cryptosteel-julkaisu on osa **[MotherLode](https://cryptosteel.com/product/motherlode-crypto-starter-kit/)** -tuoteperhettä. Ohje on tarkoitettu aloittelijoille, sisältäen kuitenkin arvokasta tietoa myös Bitcoin-veteraaneille sekä kaikille muillekin, ketkä opastavat tulevia hodlaajia Bitcoin-maailman seikkailujen alussa.
 
