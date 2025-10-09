@@ -73,6 +73,10 @@ We’ve saved the best for the end, so you can enjoy fast and low-cost transacti
 
 ***
 
+## Pay and receive
+
+***
+
 ## Since you know how to operate Bitcoin...
 
 ### YOU ARE NOW A BITCOINER!
