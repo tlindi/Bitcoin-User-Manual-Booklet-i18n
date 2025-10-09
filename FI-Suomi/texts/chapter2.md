@@ -26,7 +26,8 @@ Aakkosjärjestyksessä: Bitbox, Blockstream, ColdCard, Foundation, Ledger ja Tre
 
 ## LAITELOMPAKON KÄYTTÖÖNOTTO
 
-### Mikä on laitelompakko ja miksi tarvitsen sellaisen?
+### Mikä on laitelompakko ja 
+miksi tarvitsen sellaisen?
 
 ***
 
@@ -44,7 +45,7 @@ Muista, laitelompakon voi nollaa tehdasasetuksille helposti, etkä menetä varoj
 
 ***
 
-## Etsi soppi - mukaan kynä ja paperia
+## Etsi rauhallinen soppi - ja kynä ja paperia
 
 ***
 
@@ -84,7 +85,7 @@ Kadotitko laitelompakkosi? Lopettiko se toimintansa? Tai haluaisit päivittää 
 
 **Turvaa salaiset sanasi – ne ovat ainut tapa palauttaa pääsysi varoihisi, jos laitelompakkosi ei ole käytettävissäsi.**
 
-Without your seed phrase, you irreversibly lose access to your cryptocurrency holdings and the ability to manage them.
+Mahdollisuutesi käsitellä ja hallita bitcoinejasi ovat peruuttamattomasti menneet, mikäli hukkaat salaiset sanasi.
 
 **TÄRKEÄÄ!**
 
@@ -93,3 +94,10 @@ Without your seed phrase, you irreversibly lose access to your cryptocurrency ho
 ### BITCOIN-SANASTOA
 
 **SALAISET SANAT** - yksityisavaimen varmuuskopio laitelompakon vahingoittumisen varalle
+
+***
+
+## YKSITYINEN LORU
+Laite luo sinulle turvallisesti salaiset sanat - pidä ne tallessa - valmuuskopioi!
+
+***

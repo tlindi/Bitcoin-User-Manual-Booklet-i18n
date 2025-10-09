@@ -59,3 +59,21 @@ päätät minkä laitelompakon hankit,
 hankit salaisten sanojen (seed phrase) varmuuskopiointiin metallista valmistetun ratkaisun. Salaisilla sanoilla pääset uudelleen käsiksi varoihisi, mikäli laitelompakkosi hajoaa tai katoaa.
 
 Aivan kuten muutkin valuutat, jaetaan myös Bitcoin pienempiin yksikköihin. Jokainen bitcoin muodostuu huimaavasta määrästä satosheja - tarkalleen sadasta miljoonasta (1 Bitcoin = 100 000 000 sat). Tämän vuoksi voitkin hankkia bitcoinia, vielä, vaikka eurosentin osissa. Nyt 2025 vuonna 0,01 euroa on noin 10 sat.
+
+***
+
+## DIGITAALISEN RAHAN VÄLINEET
+
+### TURVALLISUUS
+**LAITELOMPAKKO**
+luo ja allekirjoittaa 
+lohkoketju tapahtumat
+
+### NÄPPÄRÄ
+**SALAMAVERKKO**
+nopeat maksut hyppysissä
+
+### VARMUUS
+**METALLI VARMUUSKOPIO** kestävä salaisten sanojen säilytysratkaisu
+
+***

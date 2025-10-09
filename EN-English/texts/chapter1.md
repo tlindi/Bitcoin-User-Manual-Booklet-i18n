@@ -59,3 +59,18 @@ decide which hardware wallet to buy,
 acquire a metal backup to create a permanent backup for your recovery seed phrase. You can then recover your assets in case you lost your hardware wallet.
 
 Bitcoin, like any traditional currency, is divided into subunits. Each bitcoin is a whopping one hundred million Satoshis (100,000,000 SATS). This makes it possible to buy bitcoin with a fraction of a cent.
+
+***
+
+## TOOLS FOR HANDLING DIGITAL MONEY
+
+### SAFE
+**HARDWARE WALLET** generate and authorize blockchain transactions
+
+### VERSATILE
+**THE LIGHTNING NETWORK** fast payments at your fingertips
+
+### SECURE
+**METAL BACKUP** Durable seed storage solutions
+
+***

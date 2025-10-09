@@ -93,3 +93,10 @@ Without your seed phrase, you irreversibly lose access to your cryptocurrency ho
 ### BITCOIN GLOSSARY
 
 **RECOVERY SEED PHRASE** - a private key used as a backup in case of hardware wallet failure
+
+***
+
+## UNIQUE PASSWORD
+Your device will generate a strong password - keep if safe - back it up!
+
+***
