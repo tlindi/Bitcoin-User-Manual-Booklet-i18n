@@ -1,12 +1,12 @@
 ## LAITELOMPAKON KÄYTTÖÖNOTTO
 
-Bitcoinin käyttämiseen vaadittavat kryptograafiset algoritmit toimivat tehokkaasti nykyaikaisissa älypuhelimissa ja tietokoneissa. Valitettavasti ne vai ovat auttamattoman turvattomia laitteita.
+Bitcoinin käyttämiseen vaadittavat kryptograafiset algoritmit toimivat tehokkaasti nykyaikaisissa älypuhelimissa ja tietokoneissa. Valitettavasti ne vain ovat auttamattoman turvattomia laitteita.
 
-Näitä laitteitteita käytetään moneen, valokuvien ottamisesta, surffailun kautta aina sähköpostien lähetykseen ja puheluihin. Yleisesti voidaan sanoa että, mitä monipuolisempi laite sitä usemmalle turvallisuusriskille se on alttiina.
+Näitä laitteita käytetään moneen, valokuvien ottamisesta, surffailun kautta aina sähköpostien lähetykseen ja puheluihin. Yleisesti voidaan sanoa, että mitä monipuolisempi laite sitä useammalle turvallisuusriskille se on alttiina.
 
 ### LAITELOMPAKKO
 
-Laitelopakko on täsmätarpeeseen luotu erikoislaite, joka kykenee vain suppeaan määrään toimintoja: salaisten sanojen luonti, laskemaan bitcoin-osoite ja allekirjoittamaan bitcoin verkon tapahtuma. Väärinkäytöksille alttiita kohteita on vain minimaalinen määrä.
+Laitelompakko on täsmä tarpeeseen luotu erikoislaite, joka kykenee vain suppeaan määrään toimintoja: salaisten sanojen luonti, laskemaan bitcoin-osoite ja allekirjoittamaan bitcoin verkon tapahtuma. Väärinkäytöksille alttiita kohteita on vain minimaalinen määrä.
 
 ### LAITELOMPAKON NÄYTTÖ
 
@@ -14,9 +14,9 @@ Laitelompakoissa on sisäänrakennetut näytöt. Asioiden tarkastelu ja vahvista
 
 ### YKSITYISAVAIMET
 
-Laitelompakko eristää yksityiset bitcoin-avaimet verkoista erilliseen ja salattuun muistiin. Näin salaiset sanat tai yksitysavaimet eivät koskaan siirry minnekään, vaikka laitelompakko kytketään esim tietokoneeseen.
+Laitelompakko eristää yksityiset bitcoin-avaimet verkoista erilliseen ja salattuun muistiin. Näin salaiset sanat tai yksityisavaimet eivät koskaan siirry minnekään, vaikka laitelompakko kytketään tietokoneeseen.
 
-Aakkosjärjestyksessä: Bitbox, Blockstream, ColdCard, Foundation, Ledger ja Trezor ovat johtavat laitelompakkojen valmistajat.
+Johtavat laitelompakkojen valmistajat ovat aakkosjärjestyksessä: Bitbox, Blockstream, ColdCard, Foundation, Ledger ja Trezor.
 
 ### BITCOIN SANASTOA:
 
@@ -33,15 +33,15 @@ miksi tarvitsen sellaisen?
 
 ## LAITELOMPAKON KÄYTTÖÖNOTTO - VALMISTAUTUMINEN
 
-Valmistaudu laitelompakon käyttöönottoon - sen vie reilun puolisen tuntia.
+Valmistaudu laitelompakon käyttöönottoon - se vie reilun puolisen tuntia.
 
 Ota esille tietokoneesi, paperia ja joku kirjoitusväline. Tarkista että nettiyhteys toimii ja että sinulla on rauhallinen hetki keskittyä asiaan.
 
-Huolehdi ettei kukaan tule keskeyttämään tai tarkkailemaan puuhiasi prosessin aikana – täten saat hoidettua asian kerralla kuntoon, tehokkasti ja turvallisesti.
+Huolehdi ettei kukaan tule keskeyttämään tai tarkkailemaan puuhiasi prosessin aikana – täten saat hoidettua asian kerralla kuntoon, tehokkaasti ja turvallisesti.
 
 **Tämän vihkosen useimpiin tehtäviin liittyy luottamuksellisen tiedon käsittelyä - suosittelemme tekemään näitä asioita vain yksityisissä tiloissa.**
 
-Muista, laitelompakon voi nollaa tehdasasetuksille helposti, etkä menetä varojasia, kunhan sinulla vain on salaiset sanasi tallessa. Voit harjoitella ja toistaa tätä vaihetta, kunnes se alkaa sinusta sujua luonnollisesti.
+Muista, laitelompakon voi nollata tehdasasetuksille helposti, etkä menetä varojasi, kunhan sinulla vain on salaiset sanasi tallessa. Voit harjoitella ja toistaa tätä vaihetta, kunnes se alkaa sinusta sujua luonnollisesti.
 
 ***
 
@@ -55,17 +55,17 @@ Muista, laitelompakon voi nollaa tehdasasetuksille helposti, etkä menetä varoj
 
 Yleensä prosessi alkaa sovelluksen asennuksella tietokoneeseen. Tietokonesovelluksella laitelompakon käyttö on mukavaa.
 
-Seuraa tarkaan ohjelman antamia ohjeita sekä tietokoneen että laitelompakon ruuduilta. Valmistajan antamia turvallisuutta lisääviä asioita kannattaa noudattaa, kuten esim PIN-koodi. Seuraavaksi sinua pyydetöön kirjoittamaan talteen laitelompakon näyttämiä sanoja - ne ovat sinun salaiset sanat (recovery seed phrase).
+Seuraa tarkkaan ohjelman antamia ohjeita sekä tietokoneen että laitelompakon ruuduilta. Valmistajan antamia turvallisuutta lisääviä asioita kannattaa noudattaa, kuten esim. PIN-koodi. Seuraavaksi sinua pyydetään kirjoittamaan talteen laitelompakon näyttämiä sanoja; ne ovat sinun salaiset sanat (recovery seed phrase).
 
 ### Turvaa salaiset sanasi
 
-**Salaiset sanasi ovat äärimmäiset tärkeät sekä välttämättömät varojen palautuksessä jos laitelompakollesi käy jotain tai hukkaat sen PIN-koodin. Salaiset sanat pitää aina säilyttää turvallisessa paikassa.**
+**Salaiset sanasi ovat äärimmäiset tärkeät sekä välttämättömät varojen palautuksessa, jos laitelompakollesi käy jotain tai hukkaat sen PIN-koodin. Salaiset sanat pitää aina säilyttää turvallisessa paikassa.**
 
 ### Varojen siirtäminen laitelompakkoa käyttäen
 
 Asennetun laitelompakon avulla voit siirtää bitcoinia itsellesi toisesta lompakosta tai pörssistä.
 
-Suosittelemme lukemaan valitsemasi laitteen valmistajan oheet tarkkaan, sillä prosesseissa on valmistajakohtaisia eroja.
+Suosittelemme lukemaan valitsemasi laitteen valmistajan ohjeet tarkkaan, sillä prosesseissa on valmistajakohtaisia eroja.
 
 ***
 
@@ -75,21 +75,21 @@ Suosittelemme lukemaan valitsemasi laitteen valmistajan oheet tarkkaan, sillä p
 
 ## LAITELOMPAKON KÄYTTÖÖNOTTO - YKSITYINEN AVAIN
 
-Laitelompakot on suunniteltu niin että, vain laitteen omistaja pääsee käyttämään salaista avainta - tämä tuo turvallisuutta.
+Laitelompakot on suunniteltu niin että, vain laitteen omistaja pääsee käyttämään salaista avainta, tämä tuo turvallisuutta.
 
-Salaiset sanat koostuvat 12 tai 24, joskus 20, englannin kielen sanasta. Niistä luodaan lompakkosi yksityisavain. Muista, nämä sanat antavat pääsyn ja käyttöoikeuden varoihisi!
+Salaiset sanat koostuvat 12 tai 24, joskus 20, englannin kielen sanasta. Niistä luodaan lompakkosi yksityisavain. Muista - sanat antavat pääsyn ja käyttöoikeuden varoihisi!
 
-Nämä salaiset sanasi toimivat useiden valmistajien laitelompakoissa. **Salaiset sanat ovat tärkeämpiä, kuin laite jolla ne on luotu.**
+Nämä salaiset sanasi toimivat useiden valmistajien laitelompakoissa. **Salaiset sanat ovat tärkeämpiä, kuin laite, jolla ne on luotu.**
 
-Kadotitko laitelompakkosi? Lopettiko se toimintansa? Tai haluaisit päivittää sen uudempaan? Ei ongelmaa! Syötät vain salaset sanat uuteen lompakkoon ja varat ovat taas käytettävissäsi.
+Kadotitko laitelompakkosi? Lopettiko se toimintansa? Tai haluaisit vaihtaa sen? Ei ongelmaa! Syötät vain salaset sanat uuteen lompakkoon ja varat ovat taas käytettävissäsi.
 
 **Turvaa salaiset sanasi – ne ovat ainut tapa palauttaa pääsysi varoihisi, jos laitelompakkosi ei ole käytettävissäsi.**
 
-Mahdollisuutesi käsitellä ja hallita bitcoinejasi ovat peruuttamattomasti menneet, mikäli hukkaat salaiset sanasi.
+Jos hukkaat salaiset sanasi, menetät mahdollisuutesi käsitellä ja hallita varojasi peruuttamattomasti!
 
 **TÄRKEÄÄ!**
 
-**ÄLÄ KOSKAAN TEE DIGITAALISTA KOPIOTA (KUVA, TEKSTIVIESTI, SÄHKÖPOSTI) SALAISISTA SANOISTASI. ÄLÄ MYÖSKÄÄN LUE SANOJA ÄÄNEEN TAI KIRJOITA NIITÄ MIHINKÄÄN LAITTEESEEN JOLLA SAATTAA OLLA INTERNET-YHTEYS!**
+**ÄLÄ KOSKAAN TEE DIGITAALISTA KOPIOTA (KUVA, TEKSTIVIESTI, SÄHKÖPOSTI) SALAISISTA SANOISTASI. ÄLÄ MYÖSKÄÄN LUE SANOJA ÄÄNEEN TAI KIRJOITA NIITÄ MIHINKÄÄN LAITTEESEEN, JOLLA SAATTAA OLLA INTERNET-YHTEYS, NYT TAI TULEVAISUUDESSA!**
 
 ### BITCOIN-SANASTOA
 
@@ -98,6 +98,6 @@ Mahdollisuutesi käsitellä ja hallita bitcoinejasi ovat peruuttamattomasti menn
 ***
 
 ## YKSITYINEN LORU
-Laite luo sinulle turvallisesti salaiset sanat - pidä ne tallessa - valmuuskopioi!
+Laite luo sinulle turvallisesti salaiset sanat - pidä ne tallessa - varmuuskopioi!
 
 ***

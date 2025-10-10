@@ -2,9 +2,9 @@
 
 **Miksi salaiset sanat pitää varmuuskopioida?**
 
-Koska sinä olet ainut henkilö jolla on pääsy salaisiin sanoihisi, huolehdi niiden varmuuskopioinnista. Varmuuskopioiden hallinta on yksinkertaista ja turvallista, kunhan ne pysyvät poissa verkosta.
+Koska sinä olet ainut henkilö, jolla on pääsy salaisiin sanoihisi, huolehdi niiden varmuuskopioinnista. Varmuuskopioiden hallinta on yksinkertaista ja turvallista, kunhan ne pysyvät poissa verkosta.
 
-Elektroniikka selviää todella harvoin toimintakuntoisena edes 10 vuotta saatika 20 vuotta: sähköiset laitteet eivät ole hyvä ratkaisu varojen pitkäaikaiseen säilytykseen.
+Elektroniikka selviää todella harvoin toimintakuntoisena edes 10 vuotta saatikka 20 vuotta: sähköiset laitteet eivät ole hyvä ratkaisu varojen pitkäaikaiseen säilytykseen.
 
 Salaisten sanojen varmuuskopiointi on tehokas suoja tietokone- ja laiteohjelmistojen päivitysvirheiden varalle.
 
@@ -34,7 +34,7 @@ Kenelläkään muulla, kuin sinulla, ei ole ikinä mitään tarvetta tietää sa
 
 Metalliin tehtävän varmuuskopion luontiin ei kulu juurikaan kauempaa kuin paperille tehtävään kopioon.
 
-Metallinen varmuuskopio suojaa sanasi vesi- ja palovahingoilta sekä sähköisiltä häiriöiltä ja ajan myötä kulumiselta .
+Se suojaa salaiset sanasi vesi- ja palovahingoilta sekä sähköisiltä häiriöiltä ja ajan myötä kulumiselta.
 
 Osta siis valmis varmuuskopiointiin tarkoitettu laite tai tutki verkosta tee-se-itse -ratkaisuja.
 
@@ -42,7 +42,7 @@ Tutustu ensimmäisenä ainakin kotimaiseen ratkaisuun https://www.xellox.io/yoki
 
 ### BITCOIN-SANASTOA
 
-**METALLINEN VARMUUSKOPIO** - pysyvä metallinen varmuuskopio salaisista sanoistasi
+**METALLIIN VARMISTUS** - pysyvä metallinen varmuuskopio salaisista sanoistasi
 
 ***
 
@@ -54,9 +54,9 @@ Tutustu ensimmäisenä ainakin kotimaiseen ratkaisuun https://www.xellox.io/yoki
 
 Metalliin tehtävä varmuuskopio turvaa sanasi kulumiselta ja muutenkin suojaa ne paremmin, kuin muilla tavoin säilytettynä.
 
-Metalliset varmuuskopiot eivät hätkähdä sähköiskuista, tulesta, vedestä, eivätkä edes ajan myötä juurikaan kulu.
+Metalliset varmuuskopiot eivät hätkähdä sähköiskuista, tulesta, vedestä, eivätkä kulu ajan myötä.
 
-**YLLÄTTÄVIIN TILANTEISIIN ON PARASTA VARAUTUA VARMUUSKOPIOIMALLA SALAISET SANAT METALLIIN.**
+**TULEVAISUUDEN YLLÄTTÄVIIN TILANTEISIIN ON PARASTA VARAUTUA VARMUUSKOPIOIMALLA SALAISET SANAT METALLIIN.**
 
 Xellox Yokies on kestävä ja erittäin kätevä ja helppo ratkaisu. Tutustu myös patentoituihin Cryptosteel-ratkaisuihin, jotka ovat myös erittäin kestäviä.
 
