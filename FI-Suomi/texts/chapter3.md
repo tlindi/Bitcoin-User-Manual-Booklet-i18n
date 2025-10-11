@@ -60,7 +60,7 @@ Metalliset varmuuskopiot eivät hätkähdä sähköiskuista, tulesta, vedestä, 
 
 Xellox Yokies on kestävä, erittäin kätevä ja helppo ratkaisu. Tutustu myös patentoituihin Cryptosteel-ratkaisuihin, jotka ovat myös erittäin kestäviä.
 
-Voit luonnollisesti myös käsityönä painaa salaiset sanasi metalliin koodattuna. Se on myös laajalti hyväksi havaittu tapa, mutta vie runsaasti aikaa. Avattaessa, koodauksen jälkeen stanssatut pisteet paljastavat yksityisavaimesi tai salaiset sanasi.
+Voit luonnollisesti myös käsityönä painaa salaiset sanasi metalliin koodattuna. Se on myös laajalti hyväksi havaittu tapa, mutta vie runsaasti aikaa. Avattaessa, aukikoodauksen jälkeen painetut pisteet paljastavat yksityisavaimesi tai salaiset sanasi.
 
 Jos budjettisi on tiukka, voit hankkia tee-se-itse -ratkaisun - palan metallia, kaiverrustyökalut ja kaiverrat sanat käsityönä suoraan metalliin. Tämän ratkaisun luotettavuutta voivat nakertaa mahdollisesti huonot materiaalit ja vaikea luettavuus.
 
