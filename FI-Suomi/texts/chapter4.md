@@ -44,7 +44,7 @@ Myös salamaverkon käytön aloituksessa on suositeltavaa aloittaa pienillä sum
 	- tai Phoenix Walletissa “Receive" ja pyyhkäise vasemmalle nähdäksesi "Bitcoin address" -QR-koodin.
 - Kopioi bitcoin-osoite tietokoneellesi, jotenkin ;-)
 - Syötä tuo osoite "Send to"- tai "Recipient Address"-kenttään laitelompakkosi sovelluksessa
-- Lähetä pieni määrä varoja (esim 50kSat), valitse "Quick"-siirtonopeus ja odota, että siirto vahvistetaan lohkoketjussa. Lohkoketjun kuormituksesta riippuen, valitsemasi kulujen satoshi-määrä voi vaihdella suuresti, kuten myös vahvistusten viive (minuutteja tai tunteja).
+- Lähetä pieni määrä varoja (esim 50k sat), valitse "Quick"-siirtonopeus ja odota, että siirto vahvistetaan lohkoketjussa. Lohkoketjun kuormituksesta riippuen, valitsemasi kulujen satoshi-määrä voi vaihdella suuresti, kuten myös vahvistusten viive (minuutteja tai tunteja).
 - Sisään tulevat varat tankkaavat salamaverkkolompakkosi ja voit suorittaa salaman nopeita maksuja.
 
 Valitusta sovelluksesta ja nopeasta kehityksestä johtuen, vaiheet voivat olla hieman erilaisia. Salamaverkon ideana on, että siellä käytettävät varat ovat aitoja bitcoineja. Siirtämällä varojasi salamaverkkoon, varasi muuttuvat salamaverkko talletuksiksi. Salamaverkosta varojen nostaminen siirtää vastaavan varannon sinulle Bitcoin-lohkoketjuun. Huomaa, että voit saada salamaverkko-bitcoinia, vaikka lahjoituksina tai kolikkoautomaateista alkaen 0,05 euron määrissä. Salamaverkossa voi siirtää, vaikka yhden satoshin tapahtumia!
@@ -91,7 +91,7 @@ Kiitokset:
 
 Mutant LetterPress, Mariusz Mamcarz, Vlad Costea, Gracjan Pietras, JesterHodl.com, Joko and btc21.de
 
-Käännös: Tomi Lind
+Käännös: Biocycle ja tlindi
 
 Tämä 2025 suomennettu julkaisu on vapaasti saatavilla CC BY 3.0 lisensoituna. Kannustamme kääntämään uusia kieliversioita. Opiskele kuinka saa sähköisesti muokattavan version osoitteesta github.com/cryptosteel ja tee oma osasi Bitcoin-sanoman eteenpäin viennissä!
 

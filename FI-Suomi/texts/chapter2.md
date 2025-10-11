@@ -59,7 +59,7 @@ Seuraa tarkkaan ohjelman antamia ohjeita sekä tietokoneen että laitelompakon r
 
 ### Turvaa salaiset sanasi
 
-**Salaiset sanasi ovat äärimmäiset tärkeät sekä välttämättömät varojen palautuksessa, jos laitelompakollesi käy jotain tai hukkaat sen PIN-koodin. Salaiset sanat pitää aina säilyttää turvallisessa paikassa.**
+**Salaiset sanasi ovat äärimmäisen tärkeät sekä välttämättömät varojen palautuksessa, jos laitelompakollesi käy jotain tai hukkaat sen PIN-koodin. Salaiset sanat pitää aina säilyttää turvallisessa paikassa.**
 
 ### Varojen siirtäminen laitelompakkoa käyttäen
 
@@ -75,7 +75,7 @@ Suosittelemme lukemaan valitsemasi laitteen valmistajan ohjeet tarkkaan, sillä 
 
 ## LAITELOMPAKON KÄYTTÖÖNOTTO - YKSITYINEN AVAIN
 
-Laitelompakot on suunniteltu niin että, vain laitteen omistaja pääsee käyttämään salaista avainta, tämä tuo turvallisuutta.
+Laitelompakot on suunniteltu niin, että vain laitteen omistaja pääsee käyttämään salaista avainta, tämä tuo turvallisuutta.
 
 Salaiset sanat koostuvat 12 tai 24, joskus 20, englannin kielen sanasta. Niistä luodaan lompakkosi yksityisavain. Muista - sanat antavat pääsyn ja käyttöoikeuden varoihisi!
 

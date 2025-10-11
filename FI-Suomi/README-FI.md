@@ -41,7 +41,7 @@ Eri kieliversioiden lisäksi täältä löytyvät myös niiden:
 
 ## Saatavilla olevat kieliversiot
 
-Ensimmäiset neljä kieltä ovat englanti, puola, tsekki ja suomi. Ajan myötä tulle uusia kieliä mukaan, ja toivomme sinulta tukea niiden toimittamiseksi!
+Ensimmäiset neljä kieltä ovat englanti, puola, tsekki ja suomi. Ajan myötä tullee uusia kieliä mukaan, ja toivomme sinulta tukea niiden toimittamiseksi!
 
 |Kieli|Klikkaa kansikuvaa sisältöön päästäksesi.|
 |---|---|

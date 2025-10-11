@@ -20,7 +20,7 @@ Muista aina, että sanojasi ei koskaan saa postittaa, ladata verkkoon, laittaa l
 
 ***
 
-### VARMUUSKOPIOT - VAIMISTAUTUMINEN
+### VARMUUSKOPIOT - VALMISTAUTUMINEN
 
 Laitelompakkosi luo sinulle salaiset sanat - laitelompakko ei ikinä lataa niitä verkkoon. Laitelompakot eivät koskaan ole verkkoyhteydessä suoraan. Niinpä ne ovat paljon turvallisempia kuin mobiili- tai tietokonesovellukset.
 
@@ -58,9 +58,9 @@ Metalliset varmuuskopiot eivät hätkähdä sähköiskuista, tulesta, vedestä, 
 
 **TULEVAISUUDEN YLLÄTTÄVIIN TILANTEISIIN ON PARASTA VARAUTUA VARMUUSKOPIOIMALLA SALAISET SANAT METALLIIN.**
 
-Xellox Yokies on kestävä ja erittäin kätevä ja helppo ratkaisu. Tutustu myös patentoituihin Cryptosteel-ratkaisuihin, jotka ovat myös erittäin kestäviä.
+Xellox Yokies on kestävä, erittäin kätevä ja helppo ratkaisu. Tutustu myös patentoituihin Cryptosteel-ratkaisuihin, jotka ovat myös erittäin kestäviä.
 
-Voit luonnollisesti myös stanssata koodattuna salaiset sanasi käsityönä metalliin. Se on myös laajalti hyväksi havaittu tapa, mutta vie runsaasti aikaa. Avattaessa, koodauksen jälkeen stanssatut pisteet paljastavat yksityisavaimesi tai salaiset sanasi.
+Voit luonnollisesti myös käsityönä painaa salaiset sanasi metalliin koodattuna. Se on myös laajalti hyväksi havaittu tapa, mutta vie runsaasti aikaa. Avattaessa, koodauksen jälkeen stanssatut pisteet paljastavat yksityisavaimesi tai salaiset sanasi.
 
 Jos budjettisi on tiukka, voit hankkia tee-se-itse -ratkaisun - palan metallia, kaiverrustyökalut ja kaiverrat sanat käsityönä suoraan metalliin. Tämän ratkaisun luotettavuutta voivat nakertaa mahdollisesti huonot materiaalit ja vaikea luettavuus.
 
