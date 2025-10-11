@@ -22,12 +22,14 @@
 
 ### SALAMAVERKKO - ASENNA SOVELLUS
 
-Tutustutamme sinut salamaverkkoon käyttäen kuumia lompakkoja, jotka ovat koko ajan yhteydessä verkkoon. Nämä lompakot ovat mobiilisovelluksia. Suosittelemme paria lompakkoa: Wallet of Satoshi eli WoS (harjoitteluun) ja Phoenix Wallet (oma säilö sekä helppo ja nykyaikainen).
+Tutustutamme sinut salamaverkkoon käyttäen kuumia lompakkoja, jotka ovat koko ajan yhteydessä verkkoon. Nämä lompakot ovat mobiilisovelluksia. Suosittelemme paria lompakkoa: WoS eli 
+Wallet of Satoshi (vain harjoitteluun) ja Phoenix Wallet (oma säilö sekä helppo ja nykyaikainen).
 
 - Käytä WoS:ia, kun teet ensimmäisiä salamaverkossa tapahtuvia varojen siirtoja. Se on helppo ja nopea sekä tili- että myös omasäilölompakko. Sovellus toimii heti asennuksen jälkeen. WoS:in löydät **walletofsatoshi.com** -verkkosivulta.
 - Kaikesta helppoudesta sokaistumatta - tähtää omasäilöihin kuten Phoenix Wallet. Sellaisten käyttöön liittyvät salamaverkon kanavien avauksista ja sulkemista aiheutuvat kulut. Mutta omat kanavasi takaavat, että todella omistat varasi. Phoenixin löydät phoenix.acinq.co -verkkosivuilta.
 
-**Muista, sekä Wallet of Satoshi että Phoenix Wallet ovat laajasti testattuja ja hyviä vaihtoehtoja salamaverkon käyttöön. Voit myös kokeilla hyväksi havaittuja salamaverkon asiakassovelluksia, joita ovat kyvykäs Aqua (uudehko) ja monipuolinen Breez (klassinen).**
+**Voit myös kokeilla hyväksi havaittuja salamaverkon asiakassovelluksia, joita ovat kyvykäs Aqua (uudehko) ja monipuolinen Breez (klassinen). Huomaa, että Aqua, Breez ja Phoenix Wallet ovat avoimen lähdekoodin ohjelmistoja, mitä Wallet of Satoshi ei ole.
+Kaikki ovat laajasti käytettyjä ja hyviä salamaverkkon käyttöön mobiililaitteilla.**
 
 ***
 

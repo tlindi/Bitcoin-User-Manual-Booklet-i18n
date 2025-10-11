@@ -22,7 +22,7 @@ On aika käynnistää tutustumismatkasi Bitcoinin mielenkiintoiseen ja jännitt�
 
 ## MITEN BITCOINIA SAA?
 
-Voit hankkia bitcoinia monin eri tavoin. Yleisin tapa on ostaa sitä kryptovaluutta  pörsseistä. Niissä voit vaihtaa perinteisiä valuuttoja, (dollareja, Euroja, Yen jne) bitcoiniin.
+Voit hankkia bitcoinia monin eri tavoin. Yleisin tapa on ostaa sitä kryptovaluutta pörsseistä. Niissä voit vaihtaa perinteisiä valuuttoja, (dollareita, euroja, Japanin jen, jne) bitcoiniin.
 
 Voit myös ottaa vastaan maksuja palveluista ja tavaroista bitcoineina.
 
