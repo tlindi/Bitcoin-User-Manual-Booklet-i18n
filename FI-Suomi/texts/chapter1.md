@@ -22,15 +22,15 @@ On aika käynnistää tutustumismatkasi Bitcoinin mielenkiintoiseen ja jännitt�
 
 ## MITEN BITCOINIA SAA?
 
-Voit hankkia bitcoinia monin eri tavoin. Yleisin tapa on ostaa sitä kryptovaluutta pörsseistä. Niissä voit vaihtaa perinteisiä valuuttoja, (dollareita, euroja, Japanin jen, jne) bitcoiniin.
+Voit hankkia bitcoinia monin eri tavoin. Yleisin tapa on ostaa sitä kryptovaluutta pörsseistä. Niissä voit vaihtaa perinteisiä valuuttoja (dollareita, euroja, Japanin jen, jne) bitcoiniin.
 
 Voit myös ottaa vastaan maksuja palveluista ja tavaroista bitcoineina.
 
 Asiaamme saattaisi myös edistää, jos kysyisit työnantajaltasi - josko he voisivat maksaa osan palkastasi sinulle bitcoineilla, tai miksei vaikka kokonaan.
 
-On kuitenkin muistettava, että vaikkakin pörssit ovat suosittuja ja helppoja tapoja hankkia bitcoinia, niin varojen pitkäaikaiseen säilyttämisen ne eivät ole oikea ratkaisu. Verkossa toimivat pörssit ovat monille riskeille alttiita. Lisäksi pörssissä olevat varat ovat vain nimellisesti sinun. Pörsseissä oleviin varoihisi ei sinulla ole omistamisen edellyttämiä yksityisiä avaimia. Siitäpä tuleekin sanonta:
+On kuitenkin muistettava, että vaikkakin pörssit ovat suosittuja ja helppoja tapoja hankkia bitcoinia, niin varojen pitkäaikaiseen säilyttämisen ne eivät ole oikea ratkaisu. Verkossa toimivat pörssit ovat monille riskeille alttiita. Lisäksi pörssissä olevat varat ovat vain nimellisesti sinun. Pörsseissä oleviin varoihisi ei sinulla ole omistamisen edellyttämiä yksityisiä avaimia. Siitä tuleekin sanonta:
 
-**“JOS EI OLE AVAIMIA, EI OLE SINULLA BITCOINEJA”**
+**“Eivät sinun avaimesi, eivät sinun bitcoinisi”**
 
 Voi jopa olla lakiteknisesti niin, että pörssiin siirtämäsi varat eivät edes ole sinun. Sinulle on vain annettu oikeus vaatia varojen siirtämistä itsellesi.
 
