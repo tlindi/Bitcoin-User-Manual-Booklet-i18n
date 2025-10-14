@@ -39,6 +39,7 @@ Se suojaa salaiset sanasi vesi- ja palovahingoilta sekä sähköisiltä häiriö
 Osta siis valmis varmuuskopiointiin tarkoitettu laite tai tutki verkosta tee-se-itse -ratkaisuja.
 
 Tutustu ensimmäisenä ainakin kotimaiseen ratkaisuun https://www.xellox.io/yokis/
+(-10% alennus koodilla XELLOXOHJE)
 
 ### BITCOIN-SANASTOA
 

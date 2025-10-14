@@ -74,6 +74,6 @@ lohkoketju tapahtumat
 nopeat maksut hyppysissä
 
 ### VARMUUS
-**METALLI VARMUUSKOPIO** kestävä salaisten sanojen säilytysratkaisu
+**METALLI VARMUUSKOPIO** salaisten sanojen säilytysratkaisu
 
 ***
