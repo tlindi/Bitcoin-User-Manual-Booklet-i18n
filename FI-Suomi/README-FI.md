@@ -37,7 +37,7 @@ Eri kieliversioiden lisäksi täältä löytyvät myös niiden:
 - kirjasen täydelliset PDF-muotoiset tiedostot - täydellisiä ladattavaksi ja luettavaksi,
 - tiedostoihin eriteltynä koko sisältö, tukien näin yhteisön muokkauksia ja
 - suunnittelutiedostot - avoimessa, muokattavassa ja kapsuloidussa formaatissa.
-
+- Adobe Illustrator hakee Roboto-fontin tiedostot automaattisesti Adobelta.
 
 ## Saatavilla olevat kieliversiot
 
